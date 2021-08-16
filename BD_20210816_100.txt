@@ -1,0 +1,13 @@
+PNR:        : BD_20210816_100
+Train no    : 1001
+Train Name  : Shatabdi
+Express
+From        : Bangalore
+To          : Delhi
+Travel Date : Tue Aug 17 00:00:00 IST 2021
+Passengers  : 
+
+Name : Anup Age: 26 Gender: M Fare : 2500.0
+Name : Raina Age: 24 Gender: F Fare : 625.0
+
+ Total Price : 6250.0

@@ -1,0 +1,12 @@
+PNR:        : BD_20210816_101
+Train no    : 1001
+Train Name  : Shatabdi
+Express
+From        : Bangalore
+To          : Delhi
+Travel Date : Sat Sep 11 00:00:00 IST 2021
+Passengers  : 
+
+Name : Shikha Age: 24 Gender: F Fare : 625.0
+
+ Total Price : 1250.0

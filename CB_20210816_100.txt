@@ -1,0 +1,12 @@
+PNR:        : CB_20210816_100
+Train no    : 1006
+Train Name  : Brindavan
+Express
+From        : Chennai
+To          : Bangalore
+Travel Date : Sat Dec 11 00:00:00 IST 2021
+Passengers  : 
+
+Name : kk Age: 26 Gender: m Fare : 1000.0
+
+ Total Price : 2000.0
